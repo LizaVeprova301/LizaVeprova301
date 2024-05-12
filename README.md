@@ -1,18 +1,14 @@
-### Hi there, I'm Elizaveta 👋
+### Hi there, I'm Elizaveta <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ----
-<!--
-**LizaVeprova301/LizaVeprova301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently studying at Ural Federal University (UrFU) in the field of Mathematics and Computer Science.
+- 📫 How to reach me: TG: [![Static Badge](https://img.shields.io/badge/Telegram-%40eveprova-red?style=flat&logo=Telegram&logoColor=white&color=red&link=https%3A%2F%2Ft.me%2Feveprova)](https://t.me/eveprova)
+- ❤️ I love writing Java <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;, and create various projects in other languages
+### My Absolute Favorites:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 &nbsp; I love exploring new technologies and building cool stuff.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+<img align="left" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
