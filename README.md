@@ -8,7 +8,7 @@
 ```javascript
 const Liza = {
   pronouns: "she" | "her",
-  code: [Java, Python, HTML, CSS, C++],
+  code: [Java, Python, HTML, CSS, C++, Kotlin],
   tools: [Figma, Swagger, Slack, Jira, Lucidchart, YouGile, Trello],
   methodologies: ["Agile", "Scrum", "Waterfall"],
   strengths: ["Problem-solving skills", "Strong communication", "Strategic planning and analysis"],
