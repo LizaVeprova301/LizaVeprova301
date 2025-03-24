@@ -8,13 +8,13 @@
 ```javascript
 const Liza = {
   pronouns: "she" | "her",
-  code: [Java, Python, HTML, CSS, C++, Kotlin],
-  tools: [Figma, Swagger, Slack, Jira, Lucidchart, YouGile, Trello],
-  methodologies: ["Agile", "Scrum", "Waterfall"],
+  code: [Java, Python, C++, Kotlin],
+  tools: [Figma, Jira, YouGile, Trello],
+  methodologies: ["Agile", "Scrum", "Kanban"],
   strengths: ["Problem-solving skills", "Strong communication", "Strategic planning and analysis"],
   techCommunities: {
                         teamLead: "LVM Labs",
-                        productManager: "Familia"
+                        productManager: "NeuroNum"
                       },
   myFavorites: ["I love exploring new technologies and building cool stuff", 
                "Reading, writing & watching Tech Stuff whenever possible",
